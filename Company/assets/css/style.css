@@ -805,7 +805,199 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
-/*new update*/
+/*Digital Experience*/
+
+.Digital-Experience-Front
+{
+  background-color: white;
+  width:100%;
+  height:auto;
+}
+
+.Digital-Experience-Front-tag-line
+{
+  background: #00918733;
+  margin-left: -100px;
+  transform: skew(-17deg, 0deg);
+  margin-top: 30%;
+  margin-right: 500px;
+}
+
+.Digital-Experience-Front-tag-line h2
+{
+  transform: skew(17deg, 0deg); 
+  margin: 5px; 
+  font-weight: 100; 
+  font-size: 70px; 
+  margin-left: 110px;
+  background: none;
+}
+
+/* digital experience end */
+
+/*digital infrastructure*/
+
+.Digital-Infrastructure-Front
+{
+  background-color: white;
+  width:100%;
+  height:auto;
+}
+
+.Digital-Infrastructure-Front-tag-line
+{
+  background: #00918733;
+  margin-left: -100px;
+  transform: skew(-17deg, 0deg);
+  margin-top: 30%;
+  margin-right: 500px;
+}
+
+.Digital-Infrastructure-Front-tag-line h2
+{
+  transform: skew(17deg, 0deg); 
+  margin: 5px; 
+  font-weight: 100; 
+  font-size: 70px; 
+  margin-left: 110px;
+  background: none;
+}
+
+
+/*digital infrastructure ends*/
+
+
+/*Business-Intelligence-Analytics*/
+
+.Business-Intelligence-Analytics-Front
+{
+  background-color: white;
+  width:100%;
+  height:auto;
+}
+
+.Business-Intelligence-Analytics-Front-tag-line
+{
+  background: #00918733;
+  margin-left: -100px;
+  transform: skew(-17deg, 0deg);
+  margin-top: 30%;
+  margin-right: 500px;
+}
+
+.Business-Intelligence-Analytics-Front-tag-line h2
+{
+  transform: skew(17deg, 0deg); 
+  margin: 5px; 
+  font-weight: 100; 
+  font-size: 70px; 
+  margin-left: 110px;
+  background: none;
+}
+
+
+/*Business-Intelligence-Analytics ends*/
+
+
+/*Intelligence-Process-Automation*/
+
+.Intelligent-Process-Automation-Front
+{
+  background-color: white;
+  width:100%;
+  height:auto;
+}
+
+.Intelligent-Process-Automation-Front-tag-line
+{
+  background: #00918733;
+  margin-left: -100px;
+  transform: skew(-17deg, 0deg);
+  margin-top: 30%;
+  margin-right: 500px;
+}
+
+.Intelligent-Process-Automation-Front-tag-line h2
+{
+  transform: skew(17deg, 0deg); 
+  margin: 5px; 
+  font-weight: 100; 
+  font-size: 70px; 
+  margin-left: 110px;
+  background: none;
+}
+
+
+/*Intelligence-Process-Automation ends*/
+
+
+/*Digital Applications*/
+
+.Digital-Applications-Front
+{
+  background-color: white;
+  width:100%;
+  height:auto;
+}
+
+.Digital-Applications-Front-tag-line
+{
+  background: #00918733;
+  margin-left: -100px;
+  transform: skew(-17deg, 0deg);
+  margin-top: 30%;
+  margin-right: 500px;
+}
+
+.Digital-Applications-Front-tag-line h2
+{
+  transform: skew(17deg, 0deg); 
+  margin: 5px; 
+  font-weight: 100; 
+  font-size: 70px; 
+  margin-left: 110px;
+  background: none;
+}
+
+
+/*Digital Applications ends*/
+
+
+/*Security*/
+
+.Security-Front
+{
+  background-color: white;
+  width:100%;
+  height:auto;
+}
+
+.Security-Front-tag-line
+{
+  background: #00918733;
+  margin-left: -100px;
+  transform: skew(-17deg, 0deg);
+  margin-top: 30%;
+  margin-right: 500px;
+}
+
+.Security-Front-tag-line h2
+{
+  transform: skew(17deg, 0deg); 
+  margin: 5px; 
+  font-weight: 100; 
+  font-size: 70px; 
+  margin-left: 110px;
+  background: none;
+}
+
+
+/*Security*/
+
+
+
+
+
 .movies-container
 {
     
