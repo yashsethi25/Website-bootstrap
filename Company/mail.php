@@ -1,5 +1,5 @@
 <?php
-$db = mysqli_connect("localhost","root","","drepp");
+$db = mysqli_connect("localhost","dreppuser","6350000474","drepp");
 
 if(!$db)
 {
